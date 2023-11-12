@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-There are currently no known security issues with Crip Zone themes. If you 
+There are currently no known security issues with the DarkModern theme. If you 
 suspect there is a vulnerability, please make sure that you are using the 
 latest version of SMF, first! We cannott be held responsible for anyone
 who is not using the latest version of SMF!
