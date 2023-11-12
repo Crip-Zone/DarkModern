@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-There are currently no known security issues with the DarkModern theme. If you 
+There are currently no known security issues with the DarkModern theme v2.1.4. If you 
 suspect there is a vulnerability, please make sure that you are using the 
 latest version of SMF, first! We cannott be held responsible for anyone
 who is not using the latest version of SMF!
