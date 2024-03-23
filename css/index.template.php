@@ -386,7 +386,6 @@ function template_body_below()
 		<ul>
 			<li class="floatright"><a href="', $scripturl, '?action=help">', $txt['help'], '</a> ', (!empty($modSettings['requireAgreement'])) ? '| <a href="' . $scripturl . '?action=agreement">' . $txt['terms_and_rules'] . '</a>' : '', ' | <a href="#top_section">', $txt['go_up'], ' &#9650;</a></li>
 			<li class="copyright">', theme_copyright(), '</li>
-			<li>DarkModern by <a href="https://www.jpr62.com/theme/" target="_blank" class="new_win" title="Crip Zone">Crip</a> | Updated for SMF 2.1 By <a href="https://www.jpr62.com/theme/" target="_blank" class="new_win" title="The Crip Zone Team">TheCripZone</a></li>
 		</ul>';
 	// Show the load time?
 	if ($context['show_load_time'])

@@ -43,6 +43,7 @@ function template_newsfader()
 				adaptiveHeight: 0,
 				captions: 0,
 				controls: 0,
+				speed: 6000,
 			});
 		</script>';
 	}
