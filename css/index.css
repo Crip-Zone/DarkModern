@@ -122,7 +122,7 @@
 	--information_border_radius: 7px 7px 7px 7px;
 	--moderationbuttons_check_focus_box_shadow: 0 0 4px hsl(205, 65%, 57%);
 	/* Category */
-	--cat_bg_color: linear-gradient(to bottom, hsl(0, 0%, 40%) 0%, hsl(0, 0%, 14%) 100%);
+	--cat_bg_color: linear-gradient(180deg, rgb(100, 99, 99) 0%, rgb(38, 38, 38) 55%);
 	--cat_bar_border_radius: 4px;
 	--cat_bar_collapsed_border_radius: 6px;
 	--cat_bar_desc_txt_color: hsl(0, 0%, 100%);
@@ -478,7 +478,6 @@ html {
 
 body {
 	background: #252525 url(../images/theme/backdrop.png) repeat-x;
-	;
 	font-family: var(--body_font_family);
 	font-size: var(--body_font_size);
 	line-height: var(--body_line_height);
